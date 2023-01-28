@@ -1,1 +1,1 @@
-![The Bearodactyl's github stats UwU](https://github-readme-stats.vercel.app/api?username=TheBearodactyl)
+![The Bearodactyl's GitHub stats UwU](https://github-readme-stats.vercel.app/api?username=TheBearodactyl&show_icons=true)
