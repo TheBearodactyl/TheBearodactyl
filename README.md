@@ -1,6 +1,6 @@
 # yo
 
-Hello! I'm the Bearodactyl! Here's a selfie i took a while back :P
+Hello! I'm the Bearodactyl! I make random shit and i love it. Here's a selfie i took a while back :P
 
 ![bearodactyl_painting](https://user-images.githubusercontent.com/114454115/219110357-6000296f-7034-49cf-a270-1bab08de2a43.jpg)
 
