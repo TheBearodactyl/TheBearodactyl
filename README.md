@@ -15,3 +15,5 @@
 > ON MY ACCOUNT. I AM NOT LIABLE FOR ANY
 > NUCLEAR WARHEADS THAT MAY BE CREATED
 > VIA UTILIZING MY PROJECTS.
+
+## If you like the software i make, consider sending me some money over on [my ko-fi](https://ko-fi.com/thebearodactyl) :D 
